@@ -1,11 +1,31 @@
-<layouttype>thumbnail</layouttype>
 
 
 <channels>
 <channel>
-<name>FILMES</name>
-<thumbnail>https://ia601406.us.archive.org/23/items/icon_20200506_202005/icon.png</thumbnail>
-<externallink></externallink>
+<name>WELCOME TO THE JUNGLE</name>
+<thumbnail>https://ia601509.us.archive.org/3/items/entrar_202005/Benvindo.png</thumbnail>
+<externallink>https://</externallink>
 <fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
-<info>- OS MELHORES FILMES</info>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - SUIZE ADDON - [COLOR deeppink]|[/COLOR]</info>
 </channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>CLIQUE AQUI</name>
+<thumbnail>https://ia601509.us.archive.org/3/items/entrar_202005/entrar.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/alefcouto/ADDONSUIZE/master/CATEGORIAS</externallink>
+<fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
+<info>
+
+
+[COLOR white]|[/COLOR] - ENTRETERIMENTO GARANTIDO - [COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
