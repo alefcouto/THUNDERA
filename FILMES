@@ -11,27 +11,31 @@ by Ezius
 <item>
 <title>DR ESTRANHO</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iRwF8Yt5r27BE4T-AAfZaGX2gyT1kbqz/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3uk5PgmNlMovqcK08VdI1YUWkOx.jpg</fanart>
+<info>Da Marvel Studios vem “Doctor Strange”, a história do mundialmente famoso neurocirurgião Dr. Stephen Strange, cuja vida muda para sempre depois de um terrível acidente de carro, que o rouba do uso de suas mãos. Quando a medicina tradicional o falha, ele é forçado a procurar por cura e esperança, em um lugar improvável - um enclave misterioso conhecido como Kamar-Taj. Ele rapidamente descobre que isso não é apenas um centro de cura, mas também a linha de frente de uma batalha contra as forças ocultas invisíveis empenhadas em destruir nossa realidade. Em pouco tempo, Strange - armado com poderes mágicos recém-adquiridos - é forçado a escolher se quer retornar à sua vida de fortuna e status ou deixar tudo para trás para defender o mundo como o mais poderoso feiticeiro existente.</info>
 </item>
 
 <item>
 <title>TOY STORY 4</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1mxjjmrBYxeSC9zoiFt-hkY1a24aBtxiy/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkrRD3Lnwb82Stu2SpDKAerK6O2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/31lf5UI35y2SJHLWCoY2iz3GhDS.jpg</fanart>
+<info>Quando um novo brinquedo chamado "Forky" se junta a Woody e sua turma, uma viagem ao lado de velhos e novos amigos revela quão grande o mundo pode ser para um brinquedo.</info>
 </item>
 
 <item>
 <title>OBSESSÃO SECRETA</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1-5g2iDEoncbjyd1cvdlkE4DSAFqpo-Z_/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQRwtMCDKVqNm88A1CMg0Tj7dpq.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uQUlZIyrVmOfVVj2JRrPmRcn6M1.jpg</fanart>
+<info>Quando Jennifer acorda com amnésia após um ataque traumático, é seu marido que cuida dela. Mas logo ela percebe que o perigo não acabou.</info>
 </item>
 
 <item>
 <title>JOGADOR Nº 1</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uBLpiTyxPIXytnfkmw_gKGSYp2k5nEjW/view?usp=drivesdk</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sN46sgCsWqwgHMu4mEtKJ19knVr.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/8aoNKa1zDnx1jrsBCJbQ2fc4hVo.jpg</fanart>
+<info>Num futuro distópico, situado em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. No jogo, seus usuários devem descobrir a chave de um quebra-cabeça diabólico, baseado na cultura do final do século XX, para conquistar um prêmio de valor inestimável. Para vencê-lo, porém, Watts terá de abandonar a existência virtual e ceder a uma vida de amor e realidade da qual sempre tentou fugir.</info>
 </item>
