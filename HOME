@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>WELCOME TO THE JUNGLE</name>
+<name>[COLOR yellow] WELCOME TO THE JUNGLE [/COLOR]</name>
 <thumbnail>https://ia601509.us.archive.org/3/items/entrar_202005/Benvindo.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
@@ -17,14 +17,11 @@
 
 <channels>
 <channel>
-<name>FILMES</name>
+<name>[COLOR yellow] FILMES [/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/2/items/enter_20200511/ENTER.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/alefcouto/THUNDERA/master/FILMES</externallink>
 <fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
-<info>
-
-
-[COLOR white]|[/COLOR] - ENTRETERIMENTO GARANTIDO - [COLOR white]|[/COLOR]</info>
+<info>[COLOR white] ENTRETERIMENTO GARANTIDO [/COLOR]</info>
 </channel>
 </channels>
 
