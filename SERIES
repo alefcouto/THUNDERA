@@ -12,9 +12,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR deepskyblue][B]Gangues de Londres[/COLOR][/B][COLOR orange][B] IMDb: 5.6/10[/COLOR][/B][COLOR orange][B][COLOR deepskyblue][B] - [/COLOR]2019[/COLOR][/B]</title>
-<link>URL AQUI$texto=[B][COLOR orange]TRAILER[/COLOR][/B]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$texto=[COLOR deepskyblue][B][COLOR orange]FILME[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=URL AQUI$texto=[COLOR deepskyblue][B][COLOR orange]ELEMENTUM[/COLOR][/B]</link>
+<link>URL AQUI$$1sname=[B][COLOR orange]TRAILER[/COLOR][/B]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$1sname=[COLOR deepskyblue][B][COLOR orange]FILME[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=URL AQUI$$1sname=[COLOR deepskyblue][B][COLOR orange]ELEMENTUM[/COLOR][/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/c9bHFSNe5ph0rztKbNdNuZUitv5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mCDq4ytVdxmWiY0vqSS6Fmbz9Hy.jpg</fanart>
 <genre>[COLOR White][B]Crime, Drama[/COLOR][/B]</genre>
@@ -29,4 +29,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart></fanart>
 <info></info>
 </item>
-
