@@ -9,10 +9,10 @@ by SUIZE
 
 
 <item>
-<title>Nome do Filme</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$1sname=[COLOR orange]HD{/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$1sname=[COLOR orange]HD{/COLOR] - LINK 2</link>
-<link>URL AQUI$$1sname=[COLOR orange]HD{/COLOR] - LINK 3</link>
+<title>ALTERADO</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 3</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
