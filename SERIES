@@ -12,9 +12,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR deepskyblue][B]Gangues de Londres[/COLOR][/B][COLOR orange][B] IMDb: 5.6/10[/COLOR][/B][COLOR orange][B][COLOR deepskyblue][B] - [/COLOR]2019[/COLOR][/B]</title>
-<link>https://m-1940s3.ll.dash.row.aiv-cdn.net/d/2$BI-RxAyHrqucKK59UyZWvoAMjNk~/iad_2/8e4e/0d29/fdd8/421e-870f-66ac4ae876ed/125f0593-64ef-4c9b-9f58-f3573e0c3658_video_13.mp4$$lsname=[B][COLOR orange]TRAILER[/COLOR][/B]</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1meA8tkjUT1Q-b7MUFH1PHu8BhAHA1oyE$$lsname=[COLOR deepskyblue][B][COLOR orange]FILME[/COLOR][/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=URL AQUI$$lsname=[COLOR deepskyblue][B][COLOR orange]ELEMENTUM[/COLOR][/B]</link>
+<link>URL AQUI$$lsname=[B][COLOR orange]TRAILER[/COLOR][/B]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR deepskyblue][B][COLOR orange]FILME[/COLOR][/B]</link>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:69e9d2c141bb05c82b72df136d2dcb6aaa3f79d5&dn$$lsname=[COLOR deepskyblue][B][COLOR orange]QUASAR[/COLOR][/B]</link>
 <thumbnail>https://image.tmdb.org/t/p/original/c9bHFSNe5ph0rztKbNdNuZUitv5.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/mCDq4ytVdxmWiY0vqSS6Fmbz9Hy.jpg</fanart>
 <genre>[COLOR White][B]Crime, Drama[/COLOR][/B]</genre>
@@ -23,7 +23,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>1 LINK APENAS</title>
+<title>EXPERIENCIA</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
