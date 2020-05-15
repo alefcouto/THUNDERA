@@ -22,5 +22,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>[COLOR orange][B]Duração: [/COLOR][/B][COLOR white][B]121min. [/COLOR][/B][COLOR orange][B]SINOPSE:[/COLOR][/B][B] Os melhores amigos Timmy (Stephen Odubola) e Marco (Micheal Ward) frequentam a mesma escola em Peckham, mas moram nos bairros vizinhos de Londres. Quando Marco é espancado por um dos amigos da escola primária de Timmy, os dois garotos terminam em lados rivais de um ciclo interminável de guerra de gangues de códigos postais em que não há vencedores … apenas vítimas.[/B]</info>
 </item>
 
+<item>
+<title>[COLOR deepskyblue][B]Gangues de Londres[/COLOR][/B][COLOR orange][B] IMDb: 5.6/10[/COLOR][/B][COLOR orange][B][COLOR deepskyblue][B] - [/COLOR]2019[/COLOR][/B]</title>
+<link>https://play.acervofilmes.com/embed/9212374422$$lsname=[B][COLOR orange]TRAILER[/COLOR][/B]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR deepskyblue][B][COLOR orange]FILME[/COLOR][/B]</link>
+<link>plugin://plugin.video.quasar/play?uri=URL AQUI$$lsname=[COLOR deepskyblue][B][COLOR orange]QUASAR[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/c9bHFSNe5ph0rztKbNdNuZUitv5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/mCDq4ytVdxmWiY0vqSS6Fmbz9Hy.jpg</fanart>
+<genre>[COLOR White][B]Crime, Drama[/COLOR][/B]</genre>
+<genre>Crime, Drama</genre>
+<info>[COLOR orange][B]Duração: [/COLOR][/B][COLOR white][B]121min. [/COLOR][/B][COLOR orange][B]SINOPSE:[/COLOR][/B][B] Os melhores amigos Timmy (Stephen Odubola) e Marco (Micheal Ward) frequentam a mesma escola em Peckham, mas moram nos bairros vizinhos de Londres. Quando Marco é espancado por um dos amigos da escola primária de Timmy, os dois garotos terminam em lados rivais de um ciclo interminável de guerra de gangues de códigos postais em que não há vencedores … apenas vítimas.[/B]</info>
+</item>
+
+<item>
+<title>Nome do Filme</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 2</link>
+<link>https://play.acervofilmes.com/embed/9212374422$$lsname=[COLOR orange]HD{/COLOR] - LINK 3</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
 
 
