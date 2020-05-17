@@ -60,3 +60,15 @@ $$lsname=[COLOR orange]HD{/COLOR] - LINK 2</link>
 <fanart></fanart>
 <info></info>
 </item>
+
+<item>
+<title>[COLOR deepskyblue][B]Noelle[/COLOR][/B][COLOR orange][B] IMDb: 6.2/10[/COLOR][/B][COLOR orange][B][COLOR deepskyblue][B] - [/COLOR]2019[/COLOR][/B]</title>
+<link>https://a180avoddashs3ww-a.akamaihd.net/d/2$18AqnIJfwPrL7CYVZ0JlysnFWcs~/ondemand/iad_2/b3b2/b740/7b4c/43fe-b911-f8ccdc98c065/a0ae31be-9459-48a7-bb87-93c269311654_video_13.mp4$texto=[B][COLOR orange]TRAILER[/COLOR][/B]</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1AqcguOtLid3ziLfwp8jS4ab_C9WMEBLa$texto=[COLOR deepskyblue][B][COLOR orange]FILME[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:410656E38FCBFAC1FA3E2CDDF8965F5E44AD4833&dn$texto=[COLOR deepskyblue][B][COLOR orange]ELEMENTUM[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ljxeeVQJra8O4slFsmmnf5NgFx4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/dVM0ZSzbMbz7b0LxrNRz1gdhcGM.jpg</fanart>
+<genre>[COLOR White][B]Família, Comédia, Fantasia[/COLOR][/B]</genre>
+<genre>Família, Comédia, Fantasia</genre>
+<info>[COLOR orange][B]Duração: [/COLOR][/B][COLOR white][B]100min. [/COLOR][/B][COLOR orange][B]SINOPSE:[/COLOR][/B][B] Noelle (Anna Kendrick) é a filha do Papai Noel, que é forçada a assumir o negócio da família quando seu pai decide se aposentar e seu irmão, Nick (Bill Hader),  acaba ficando impossibilitado de ajudar antes de seu primeiro grande voo de Natal.[/B]</info>
+</item>
