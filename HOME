@@ -2,14 +2,14 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow] WELCOME TO THE JUNGLE [/COLOR]</name>
-<thumbnail>https://ia601509.us.archive.org/3/items/entrar_202005/Benvindo.png</thumbnail>
+<name>[COLOR yellow]======>WELCOME TO THE JUNGLE<======[/COLOR]</name>
+<thumbnail>https://ia601500.us.archive.org/1/items/bem_20200517/BEM.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
 <info>
 
 
-[COLOR deeppink]|[/COLOR] - SUIZE ADDON - [COLOR deeppink]|[/COLOR]</info>
+[COLOR red]|[/COLOR] - by EZIUS - [COLOR red]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow] FILMES [/COLOR]</name>
+<name>[COLOR yellow] #FILMES [/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/2/items/enter_20200511/ENTER.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/alefcouto/THUNDERA/master/FILMES</externallink>
 <fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
@@ -29,7 +29,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow] FILMES - TESTES [/COLOR]</name>
+<name>[COLOR yellow] #FILMES - TESTES [/COLOR]</name>
 <thumbnail>https://ia601502.us.archive.org/2/items/enter_20200511/ENTER.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/alefcouto/THUNDERA/master/SERIES</externallink>
 <fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
