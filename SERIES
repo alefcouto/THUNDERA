@@ -49,28 +49,14 @@ $$lsname=[COLOR orange]HD{/COLOR] - LINK 2</link>
 </item>
 
 <item>
-<title>ARLEQUINA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 4</link>
-<link>URL AQUI</link>
+<title>TESTE DE LINKS</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=19wMgmmIPxuz0Bad0Ved2w2GVVrWdtbfo$$lsname=[COLOR orange]HD{/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1XZVmf_wPCgjm4wgg5Yu2Y_p-Rf4Up77N$$lsname=[COLOR orange]HD{/COLOR] - LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?id=1TbpYnMvbNIziuqvTU0LB595BVulhKa0l$$lsname=[COLOR orange]HD{/COLOR] - LINK 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Djhu3gC8zsOGsB82mWM7J6JZguDSfznH/view$$lsname=[COLOR orange]HD{/COLOR] - LINK 4</link>
+<link>http://br.vid.web.acsta.net/uk/medias//nmedia/55/19/10/01/19//19562991_hd_013.mp4</link>
+<link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:410656E38FCBFAC1FA3E2CDDF8965F5E44AD4833&dn$texto=[COLOR deepskyblue][B][COLOR orange]QUASAR[/COLOR][/B]</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
 </item>
-
-<item>
-<title>ARLEQUINA</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD{/COLOR] - LINK 4</link>
-<link>URL AQUI</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-
-
