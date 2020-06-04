@@ -108,6 +108,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
+<title>[COLOR yellow][B]A OUTRA TERRA[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yFl7mJaFpsGZxP-DysdhDo4qG-3PKLRj/view$$lsname=FULL HD</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/93p5eYeAYc2sFXCaLSV5eapk9z1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/fJfpZnS2pvFCtyaDqoIgKLASvAT.jpg</fanart>
+<info>[COLOR white][B]Rhoda Williams, uma mulher jovem e brilhante recentemente aceita no programa de astrofísica do MIT, pretende explorar o cosmos. John Burroughs, um compositor brilhante, acaba de atingir o auge de sua profissão, e está prestes a ter um segundo filho com sua esposa amorosa. Na véspera da descoberta de um novo planeta no espaço, aparentemente escondido atrás do sol (um segundo planeta Terra), a tragédia, e as vidas desses estranhos tornam-se irremediavelmente entrelaçadas. Distante do mundo e os seres que eles conheciam, os dois jovens começam um caso de amor improvável, que vai despertá-los para a vida. Mas quando um deles é apresentado com a oportunidade de viajar para a Terra, outros abraçam uma realidade alternativa. Que vida nova eles vão escolher?[/COLOR][/B]</info>
+</item>
+
+<item>
 <title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
