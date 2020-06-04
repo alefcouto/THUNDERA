@@ -87,6 +87,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
+<title>[COLOR yellow][B]PRESSÁGIO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dHJIoPR2kIwgTNkWJMIPqmGWSnQ8ZGd7/view$$lsname=FULL HD</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Ubjru_hbo4WIxftoqKAwJz4CR-rRxW1d/view$$lsname=HD</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7fI1qeXSOB1j2JTclt5nuEddgXj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/prnq2ONhqo9Tga7dOMZKgFJMofs.jpg</fanart>
+<info>[COLOR white][B]Uma policial novata e um detetive investigam o assassinato de uma jovem. A melhor amiga da vítima é a principal suspeita.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 4</link>
+<link>plugin://plugin.video.quasar/play?uri=URL AQUI$$lsname=[COLOR deepskyblue][B][COLOR orange]QUASAR[/COLOR][/B]</link>
+<link>http://br.vid.web.acsta.net/uk/medias//nmedia/55/19/10/01/19//19562991_hd_013.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR white][B]URL AQUI[/COLOR][/B]</info>
+</item>
+
+<item>
 <title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
