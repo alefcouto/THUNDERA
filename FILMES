@@ -116,6 +116,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
+<title>[COLOR yellow][B]LIGA DA JUSTIÇA SOMBRIA:GUERRA DE APOKOLIPS(2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1elST7rvJO4C0WACZLEiP02i0Juw0cB8h/view$$lsname=HD</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 4</link>
+<link>plugin://plugin.video.quasar/play?uri=URL AQUI$$lsname=[COLOR deepskyblue][B][COLOR orange]QUASAR[/COLOR][/B]</link>
+<link>http://br.vid.web.acsta.net/uk/medias//nmedia/55/19/10/01/19//19562991_hd_013.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWXNbZOvcg7lq9xTP3BdCsDkfjS.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vLBeE9JquwJzX5FJ5TNHrzmW4iy.jpg</fanart>
+<info>[COLOR white][B]O filme-animado é uma sequência de Liga da Justiça Sombria, animação de 2017 com classificação para maiores. Na trama, Batman reunia um grupo de heróis mágicos para lidar com ameaças sobrenaturais. Entre a galeria de heróis da Liga da Justiça Sombria, temos Constantine, Monstro do Pântano, Zatanna, Etrigan, entre outros. É aguardado a aparição de alguns personagens como Darkseid, as Fúrias e até mesmo o Pai Celestial.[/COLOR][/B]</info>
+</item>
+
+<item>
 <title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
@@ -127,6 +140,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart></fanart>
 <info>[COLOR white][B]URL AQUI[/COLOR][/B]</info>
 </item>
+
 
 
 
