@@ -2,7 +2,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow][B]======>WELCOME TO THE JUNGLE<======[/COLOR][/B]</name>
+<name>[COLOR white][B]==>[/COLOR][/B][COLOR yellow][B] WELCOME TO THE JUNGLE [/COLOR][/B][COLOR white][B]<==[/COLOR][/B]</name>
 <thumbnail>https://ia601500.us.archive.org/1/items/bem_20200517/BEM.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
@@ -17,7 +17,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow][B] #FILMES [/COLOR][/B]</name>
+<name>[COLOR blue][B]#[/COLOR][/B][COLOR white][B]FILMES[/COLOR][/B]</name>
 <thumbnail>https://ia601502.us.archive.org/2/items/enter_20200511/ENTER.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/alefcouto/THUNDERA/master/FILMES</externallink>
 <fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
@@ -29,7 +29,7 @@
 
 <channels>
 <channel>
-<name>[COLOR yellow][B] #FILMES - TESTES [/COLOR][/B]</name>
+<name>[COLOR blue][B]#[/COLOR][/B][COLOR white][B]FILMES TESTES[/COLOR][/B]</name>
 <thumbnail>https://ia601502.us.archive.org/2/items/enter_20200511/ENTER.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/alefcouto/THUNDERA/master/SERIES</externallink>
 <fanart>https://ia801406.us.archive.org/23/items/icon_20200506_202005/fanart.jpg</fanart>
