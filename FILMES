@@ -129,6 +129,14 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
+<title>[COLOR yellow][B]FRAÇÃO DE SEGUNDOS[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16ch4vTeidk_mXhIWN9h4AAuVi6YUBZuL/view$$lsname=FULL HD</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYjx4zBS5uKC5u6pIObkawyv0QZ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3xxFtGWXybWoixONIgkMTpvbZCb.jpg</fanart>
+<info>[COLOR white][B]Um homem perde dez minutos de sua memória devido a ser atingido por uma bala perdida, durante um assalto a um banco que deu errado. Ele deve juntar os pedaços de sua memória para descobrir quem sabotou o trabalho e pegou o dinheiro, tudo ao mesmo tempo em que é perseguido por um poderoso chefe do crime, que quer recuperar o dinheiro.[/COLOR][/B]</info>
+</item>
+
+<item>
 <title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
@@ -140,6 +148,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart></fanart>
 <info>[COLOR white][B]URL AQUI[/COLOR][/B]</info>
 </item>
+
+<item>
+<title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 4</link>
+<link>plugin://plugin.video.quasar/play?uri=URL AQUI$$lsname=[COLOR deepskyblue][B][COLOR orange]QUASAR[/COLOR][/B]</link>
+<link>http://br.vid.web.acsta.net/uk/medias//nmedia/55/19/10/01/19//19562991_hd_013.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR white][B]URL AQUI[/COLOR][/B]</info>
+</item>
+
 
 
 
