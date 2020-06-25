@@ -149,16 +149,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 4</link>
-<link>plugin://plugin.video.quasar/play?uri=URL AQUI$$lsname=[COLOR deepskyblue][B][COLOR orange]QUASAR[/COLOR][/B]</link>
-<link>http://br.vid.web.acsta.net/uk/medias//nmedia/55/19/10/01/19//19562991_hd_013.mp4</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR white][B]URL AQUI[/COLOR][/B]</info>
+<title>[COLOR yellow][B]300[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kzoA-D13iRk2YS49LK9dJd6vxDuwHzCL/view$$lsname=FHD</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFXb30biVItPuNY3scjbcZ70oxD.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/rri6Dzr7EW7HV50TiwMiFeJYPVc.jpg</fanart>
+<info>[COLOR white][B]Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas (Gerard Butler) e seus 300 guerreiros de Esparta lutam bravamente contra o numeroso exército do rei Xerxes (Rodrigo Santoro). Após três dias de muita luta, todos os espartanos são mortos. O sacrifício e a dedicação destes homens uniu a Grécia no combate contra o inimigo persa.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[COLOR yellow][B]300: A ASCENSÃO DO IMPÉRIO[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZiTPQ4ok-Pg3GqwK3YwarJD9VtHpoazK/view$$lsname=LINK 1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uSap51aYp2QAdO38HWS2qojt2n4.jpg</fanart>
+<info>[COLOR white][B]Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército sendo liderado por Artemisia (Eva Green). Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles (Sullivan Stapleton) é o responsável por liderar os gregos.[/COLOR][/B]</info>
 </item>
 
 <item>
@@ -170,6 +173,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/aQXTw3wIWuFMy0beXRiZ1xVKtcf.jpg</fanart>
 <info>[COLOR white][B]Quando Alita desperta sem memória de quem é, em um mundo futurístico que não reconhece, ela é levada por Ido, um médico compassivo que percebe que em algum lugar nesta casca de ciborgue abandonada está o coração e alma de uma jovem mulher com um passado extraordinário. Enquanto Alita aprende a navegar sua nova vida e as ruas traiçoeiras da Cidade de Ferro, Ido tenta protegê-la de sua misteriosa história, enquanto seu novo amigo de rua Hugo oferece ajuda para recuperar suas memórias. Mas é somente quando as forças mortais e corruptas que controlam a cidade vêm atrás de Alita que ela descobre uma pista de seu passado, ela tem habilidades únicas de combate que os que estão no poder não conseguem controlar. Se ela puder ficar fora de seu alcance, pode ser a chave para salvar seus amigos, sua família e o mundo que ela está amando.[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 3</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 4</link>
+<link>plugin://plugin.video.quasar/play?uri=URL AQUI$$lsname=[COLOR deepskyblue][B][COLOR orange]QUASAR[/COLOR][/B]</link>
+<link>http://br.vid.web.acsta.net/uk/medias//nmedia/55/19/10/01/19//19562991_hd_013.mp4</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[COLOR white][B]URL AQUI[/COLOR][/B]</info>
 </item>
 
 
