@@ -150,7 +150,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR yellow][B]300[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kzoA-D13iRk2YS49LK9dJd6vxDuwHzCL/view$$lsname=FHD</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kzoA-D13iRk2YS49LK9dJd6vxDuwHzCL/view$$lsname=LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dFXb30biVItPuNY3scjbcZ70oxD.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/rri6Dzr7EW7HV50TiwMiFeJYPVc.jpg</fanart>
 <info>[COLOR white][B]Grécia, 480 AC. Na Batalha de Termópilas, o rei Leônidas (Gerard Butler) e seus 300 guerreiros de Esparta lutam bravamente contra o numeroso exército do rei Xerxes (Rodrigo Santoro). Após três dias de muita luta, todos os espartanos são mortos. O sacrifício e a dedicação destes homens uniu a Grécia no combate contra o inimigo persa.[/COLOR][/B]</info>
@@ -159,6 +160,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[COLOR yellow][B]300: A ASCENSÃO DO IMPÉRIO[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZiTPQ4ok-Pg3GqwK3YwarJD9VtHpoazK/view$$lsname=LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9T9hsVca2mh0S29olWRUE3uBpz.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/uSap51aYp2QAdO38HWS2qojt2n4.jpg</fanart>
 <info>[COLOR white][B]Após a morte do pai, Xerxes (Rodrigo Santoro) dá início a uma jornada de vingança e ruma em direção à Grécia, com seu exército sendo liderado por Artemisia (Eva Green). Enquanto os 300 espartanos liderados por Leonidas tantam combater o Deus-Rei, os exércitos do resto da Grécia se unem para uma batalha com as tropas de Artemisia no mar. Themistocles (Sullivan Stapleton) é o responsável por liderar os gregos.[/COLOR][/B]</info>
@@ -176,8 +178,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR yellow][B]teste[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ZiTPQ4ok-Pg3GqwK3YwarJD9VtHpoazK/view$$lsname=LINK 1</link>
+<title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kzoA-D13iRk2YS49LK9dJd6vxDuwHzCL/view$$lsname=LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 3</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 4</link>
