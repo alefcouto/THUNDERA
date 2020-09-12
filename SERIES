@@ -66,20 +66,6 @@ $$lsname=LINK 2</link>
 </item>
 
 <item>
-<title>[COLOR yellow][B]A GRANDE TACADA-OPÇÕES NEW[/COLOR][/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/drive/folders/1aQwHOK59tbpHifqe3NuMB0ONZYn4kZkS$$lsname=B-AULA 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/drive/folders/1aQwHOK59tbpHifqe3NuMB0ONZYn4kZkS$$lsname=B-AULA 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/drive/folders/1aQwHOK59tbpHifqe3NuMB0ONZYn4kZkS$$lsname=B-AULA 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/drive/folders/1VgAaLIUgf2tgBGAP90wgp4c3NVjCoOpm$$lsname=C-AULA 1</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/drive/folders/1VgAaLIUgf2tgBGAP90wgp4c3NVjCoOpm$$lsname=C-AULA 2</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/drive/folders/1VgAaLIUgf2tgBGAP90wgp4c3NVjCoOpm$$lsname=C-AULA 3</link>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/open?=1VgAaLIUgf2tgBGAP90wgp4c3NVjCoOpm$$lsname=C-AULA 4</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info>[COLOR white][B]URL AQUI[/COLOR][/B]</info>
-</item>
-
-<item>
 <title>[COLOR yellow][B]URL AQUI[/COLOR][/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1kzoA-D13iRk2YS49LK9dJd6vxDuwHzCL/view$$lsname=LINK 1</link>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=LINK 2</link>
